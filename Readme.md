@@ -67,7 +67,7 @@ After the deployment finished successfully you can visit your app with `heroku o
 
 Start by adding the nginx buildpack to your Heroku app
 
-`heroku buildpacks:add [https://github.com/heroku/heroku-buildpack-nginx](https://github.com/heroku/heroku-buildpack-nginx)`
+heroku buildpacks:add https://github.com/heroku/heroku-buildpack-nginx
 
 You should see
 
